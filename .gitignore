@@ -24,3 +24,7 @@
 
 # Ignore application configuration
 /config/application.yml
+
+/dist
+
+npm-debug.log

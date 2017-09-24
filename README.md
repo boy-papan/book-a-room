@@ -4,5 +4,18 @@ Book A Room is a Rails web application that is meant to be used as an in-place f
 
 ## Requirements
 
-* Ruby 2.4.0
-* Rails 5.1.4
+* NodeJS 6+
+
+## Setting up
+
+Install NodeJS on your development environment:
+`npm install`
+
+Install Webpack (do only once and might need sudo)
+`npm install -g webpack`
+
+Install http-server (do only once and might need sudo)
+`npm install -g http-server`
+
+Run as a web server
+`http-server`
