@@ -1,11 +1,9 @@
-# README
+# Book A Room
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Book A Room is a Rails web application that is meant to be used as an in-place for showing daily events for a meeting room, as well as booking a time slot in that day. Events are synced with Google Calendar that is setup for the room.
 
-Things you may want to cover:
 
-* Ruby version
+## Ruby version
 
 * System dependencies
 
